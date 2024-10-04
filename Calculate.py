@@ -1,5 +1,8 @@
 def addition(a, b):
     return a + b
+def subtraction(a, b):
+    return a - b
+
 def main():
     # Get two numbers from the user
     number1 = float(input("Enter the first number: "))
